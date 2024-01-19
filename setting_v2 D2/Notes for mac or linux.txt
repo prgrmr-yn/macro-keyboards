@@ -1,0 +1,30 @@
+
+for Mac:
+1.
+Grant "Input Listen" permission to "Terminal"
+2.
+open terminal
+Use the "cd" command to change to the directory
+Add execute permission using "chmod" command
+Execute a program with "sudo"
+example:
+cd  Downloads/setting_v2
+chmod  +x  ./Sayo_CLI_Mac_M1
+sudo  ./Sayo_CLI_Mac_M1
+Then use Chrome or Firefox to open the link
+
+3.
+Modifier keys: GUI is command, ALT is option
+
+
+for Linux:
+
+open terminal
+Use the "cd" command to change to the directory
+Add execute permission using "chmod" command
+Execute a program with "sudo"
+example:
+cd Downloads/setting_v2
+chmod  +x  ./Sayo_CLI_Linux
+sudo  ./Sayo_CLI_Linux
+Then use Chrome or Firefox to open the link
