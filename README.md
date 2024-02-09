@@ -29,7 +29,7 @@ Link:  [Youtube playlist](https://www.youtube.com/watch?v=Y-PFuFkAugc&list=PLYki
 
 ## This is my affiliate link if you interested to buy this keyboard
 
-Link: [ali express](https://s.click.aliexpress.com/e/_DE7c8gv)
+Link:  [ali express](https://s.click.aliexpress.com/e/_DE7c8gv)
 
 ## Channel name: **Macro Keyboardz**
 
@@ -52,4 +52,3 @@ I will soon be programming some templates and share the file so you can preinsta
 If this video helped you in any way, give it a star ⭐️.
 
 > ✨✨✨✨✨
-
