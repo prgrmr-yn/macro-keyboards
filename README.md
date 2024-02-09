@@ -7,7 +7,7 @@ Hi! I'm your **instructor**  and i will guide you on how to use this keyboard an
 ```mermaid
 graph LR
 A[Code] --> B[Download Zip] --> F[Download Folder]
-A --> C[clone] --> Terminal --> D[git clone https://github.com/prgrmr-yn/macro-keyboards.git]
+A --> C[clone] --> terminal --> D[gh repo clone prgrmr-yn/macro-keyboards]
 
 ```
 
