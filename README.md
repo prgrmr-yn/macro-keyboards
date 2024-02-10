@@ -1,5 +1,7 @@
 # Welcome to Sayo Macro Keyboard Guide!
 
+<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=prgrmr-yn/read-me-profile](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fprgrmr-yn%2Fmacro-keyboards&countColor=%23dce775)" alt="Yatin Nagpal">
+
 Hi! I'm your **instructor**  and i will guide you on how to use this keyboard and tips and tricks
 
 ## Download or clone
