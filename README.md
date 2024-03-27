@@ -1,7 +1,7 @@
 
 <img align="right" src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fprgrmr-yn%2Fmacro-keyboards&countColor=%23dce775">
 
-# Welcome to Sayo Macro Keyboard Guide!
+# Welcome to Sayo DeviceMacro Keyboard Guide!
 
 
 
