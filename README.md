@@ -6,7 +6,7 @@
 
 
 Hi! I'm your **instructor**  and i will guide you on how to use this keyboard and tips and tricks
-Please note, the software in this repo is downloaded from sayo bot (website)[https://osu.sayobot.cn/download/]
+Please note, the software in this repo is downloaded from sayo bot [website](https://osu.sayobot.cn/download/)
 
 ## Download or clone
 
