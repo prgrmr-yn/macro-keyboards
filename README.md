@@ -24,14 +24,14 @@ Link:  [Youtube playlist](https://www.youtube.com/watch?v=Y-PFuFkAugc&list=PLYki
 
 ## Chapters on Playlist
 
-1. **Device Setup**
-2. **Getting familiar with interface**
-3. **Modifiers on keys**
-4. **Multiple key combination**
-5. **Light modes**
-6. **Key Triggers**
-7. **Colors**
-8. **Multimedia and mouse**
+1. [**Device Setup**](https://youtu.be/Y-PFuFkAugc)
+2. [**Getting familiar with interface**](https://youtu.be/U6PEyPaTVLM)
+3. [**Modifiers on keys**](https://youtu.be/c8MtxwHuZcQ)
+4. [**Multiple key combination**](https://youtu.be/aexajiGBvGE)
+5. [**Light modes**](https://youtu.be/GMQ6JtYa0eQ)
+6. [**Key Triggers**](https://youtu.be/6cBuQiphJ7Q)
+7. [**Colors**](https://youtu.be/sIADiOakyhs)
+8. [**Multimedia and mouse**](https://youtu.be/lzwMZGozSa0)
 
 ## This is my affiliate link if you interested to buy this keyboard
 
@@ -55,6 +55,6 @@ I will soon be programming some templates and share the file so you can preinsta
 
 ## Star this repository
 
-If this video helped you in any way, give it a star ⭐️.
+If this page helped you in any way, don't forget to give it a star ⭐️.
 
 > ✨✨✨✨✨
